@@ -7,6 +7,7 @@ public class Arithmetic3 {
 		int c;
 		c=a/b;
 		System.out.println("result is "+c);
+		System.out.printIn("changes done by PC");
 		 return c;
 	}
 	public int sub1(int a1, int b1)
