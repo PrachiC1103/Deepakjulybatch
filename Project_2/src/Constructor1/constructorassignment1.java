@@ -1,5 +1,6 @@
 package Constructor1;
 
+
 public class constructorassignment1 {
 	//default constructor
   public constructorassignment1() 
